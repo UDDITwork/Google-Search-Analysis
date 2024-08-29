@@ -15,6 +15,8 @@ Analysis Process :
 Retrieve data on the interest by region using `data = trends.interest_by_region()`.
 Sort the data to identify the top countries by search interest and select the top 10.
 5. Data Visualization: Create a bar chart to visualize the search interest by country using `data.reset_index().plot()` and other plotting functions. This step visually represents the top countries with the most searches for the given keyword.
+![__results___6_0](https://github.com/user-attachments/assets/d9b3ace2-d983-4926-8ac5-f42f199f627a)
+![__results___5_0](https://github.com/user-attachments/assets/163be5ac-a66d-4e5f-aa31-3c36a7ad07d4)
 
 6. Time-Series Analysis of Search Trends:
 
